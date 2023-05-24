@@ -1,4 +1,4 @@
-# Welcome :)
+# Welcome 👋
 
 ### Project #1
 An unguided DataCamp project to analyze episodes and guest stars from The Office.  
