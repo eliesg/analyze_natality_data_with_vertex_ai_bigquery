@@ -8,3 +8,6 @@ Find it here: https://github.com/eliesg/data-portfolio/tree/main/investigating_n
 ### Project #2
 A guided lab in GCP, to discover Vertex AI: "Analyzing Natality Data Using Vertex AI and BigQuery".  
 Find it here: https://github.com/eliesg/data-portfolio/blob/main/analyze_natality_data_with_vertex_ai_bigquery.ipynb
+
+### Project #3
+A Google colab to practice my Python skills on dummy GA4 data.
